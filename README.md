@@ -1,5 +1,3 @@
-Certainly! Here's a professional and detailed `README.md` template for your `ft_printf` project that you can customize further if needed:
-
 ---
 
 # ft_printf
